@@ -1,0 +1,3 @@
+HEllo from sample1.txt
+
+I am writting program in c++ and c
