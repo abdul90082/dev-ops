@@ -1,0 +1,3 @@
+HEllo from sample2.txt......... This is related to  hobbies.
+
+I am writting program in c++ and c
